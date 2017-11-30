@@ -24,6 +24,10 @@ html {
   width: 100%;
 }
 
+.card-head {
+  position: relative;
+}
+
 i {
   font-size: 2rem;
 }
